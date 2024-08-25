@@ -11,3 +11,6 @@ This project aims to predict the winner of a upcoming match up given the teams p
 Models:
 
 Two models from SciKit Learn were tested for this model. First was the RandomForestClassifier. Using this model an accuary score of 62% was achieved and a precision score of %92. The LinearSVC yielded lower scores, so RandomForestClassifier was prefered. 
+
+Files:
+The scrpaing file contatains the python code used to scraping data and format the data into a CSV. The predictions file implement the models from SciKit learn to make predictions based off the data compiled in the other file. 
