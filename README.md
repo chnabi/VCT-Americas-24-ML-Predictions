@@ -1,4 +1,5 @@
 # VCT Americas '24 ML Predictions
+(Note: I don't play this game, so I don't want to be assocated with the connotation of people who do.)
 
 Using BeatifulSoup to scrap data on 2024 season Valorant esports matches makes predicitons about upcoming matches at the end of the season using Scikit Learn's machine learing models about upcoming matches at the end of the season.
 
